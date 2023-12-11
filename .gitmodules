@@ -1,0 +1,9 @@
+[submodule "sytwc-sass"]
+	path = sytwc-sass
+	url = https://github.com/alu0101056944/sytwc-sass
+[submodule "sytwc-gatsby"]
+	path = sytwc-gatsby
+	url = https://github.com/alu0101056944/sytwc-gatsby
+[submodule "sytwc-tools"]
+	path = sytwc-tools
+	url = https://github.com/alu0101056944/sytwc-tools
