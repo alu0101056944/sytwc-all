@@ -15,18 +15,20 @@ El comando ejecuta un `git clone` para cada submodulo.
 ## Estructura del repositorio
 
 ```bash
-├───sytwc-gatsby # práctica 3 de introducción a Gatsby
+├───sytwc-gatsby # Práctica 3 de introducción a Gatsby y Práctica 4: Gatsby
 │   ├───docs
 │   └───gatsby_page
 │       ├───content
-│       └───src
-│           ├───images
-│           │   └───bienes
-│           ├───pages
-│           ├───styles
-│           │   └───building
-│           └───templates
-│               └───building
+│       ├───src
+│       │   ├───images
+│       │   │   └───bienes
+│       │   ├───pages
+│       │   ├───styles
+│       │   │   └───building
+│       │   └───templates
+│       │       └───building
+|       ├───test
+|       └───test-examples
 ├───sytwc-sass # práctica 1 de webcomponentes
 │   ├───docs
 │   └───public
