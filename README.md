@@ -27,8 +27,8 @@ El comando ejecuta un `git clone` para cada submodulo.
 │       │   │   └───building
 │       │   └───templates
 │       │       └───building
-|       ├───test
-|       └───test-examples
+│       ├───test
+│       └───test-examples
 ├───sytwc-sass # práctica 1 de webcomponentes
 │   ├───docs
 │   └───public
